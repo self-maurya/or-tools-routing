@@ -1,1 +1,3 @@
 rootProject.name = 'or-tools-routing'
+
+include ':or-tools-routing-lib'
